@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=zelkarnayn&show_icons=true&theme=dark&border_radius=10"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelkarnayn&hide_progress=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=zelkarnayn&show_icons=true&theme=dark&border_radius=1"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelkarnayn&hide_progress=true&border_radius=1&theme=dark"/>
 
 
 
