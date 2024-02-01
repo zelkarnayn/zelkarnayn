@@ -1,5 +1,9 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi everyone 👋, I'm Zelemhan</h1>
 <h3 align="center">A passionate React frontend developer from Grozny</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 - 🔭 I’m currently working on **Cataloxy PM**
 
@@ -12,6 +16,8 @@
 - 📫 How to reach me **Telegram: @zelkarnayn**
 
 - 📄 Know about my experiences <a href="https://groznyj.hh.ru/resume/85347127ff0b919a6a0039ed1f34586b784548](https://groznyj.hh.ru/resume/85347127ff0b919a6a0039ed1f34586b784548">hh.ru</a>
+
+
 
 - ⚡ Fun fact: 
   **Hello! I am a React developer with 4 years of experience. I specialize in creating modern web applications using React, Redux and other technologies. I strive for high-quality code and follow the latest technology trends. Working in three companies and outsourcing gave me good experience in the front end.**
