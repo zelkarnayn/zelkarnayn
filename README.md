@@ -1,17 +1,17 @@
 <h1 align="center">Hi everyone 👋, I'm Zelemhan</h1>
-<h3 align="center">A passionate frontend developer from Grozny</h3>
+<h3 align="center">A passionate React frontend developer from Grozny</h3>
 
 - 🔭 I’m currently working on **Cataloxy PM**
 
 - 🌱 I’m currently learning **React, Next, Redux, React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zelkarnayn](https://github.com/zelkarnayn)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/zelkarnayn" target="blank">Github</a>
 
 - 💬 Ask me about **React, Next, Redux, React Native**
 
 - 📫 How to reach me **Telegram: @zelkarnayn**
 
-- 📄 Know about my experiences [https://groznyj.hh.ru/resume/85347127ff0b919a6a0039ed1f34586b784548](https://groznyj.hh.ru/resume/85347127ff0b919a6a0039ed1f34586b784548)
+- 📄 Know about my experiences <a href="https://groznyj.hh.ru/resume/85347127ff0b919a6a0039ed1f34586b784548](https://groznyj.hh.ru/resume/85347127ff0b919a6a0039ed1f34586b784548">hh.ru</a>
 
 - ⚡ Fun fact: 
   **Hello! I am a React developer with 4 years of experience. I specialize in creating modern web applications using React, Redux and other technologies. I strive for high-quality code and follow the latest technology trends. Working in three companies and outsourcing gave me good experience in the front end.**
