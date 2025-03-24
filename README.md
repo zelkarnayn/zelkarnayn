@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Cataloxy PM**
+- 🔭 I’m currently working on **DC Avtomatika**
 
 - 🌱 I’m currently learning **React, Next, Redux, React Native**
 
